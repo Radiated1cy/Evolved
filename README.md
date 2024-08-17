@@ -2,7 +2,7 @@
 
 <center></center>
 <center>  
-  This modpack gives you a more relaxed experience while adding more to the game. It is also optimized for lower end PCs!</center>
+  This modpack gives you a more relaxed experience while giving the game a more unqiue feel. It is also optimized for lower end PCs!</center>
 
   #
 ### <center></center>
@@ -12,7 +12,7 @@ Evolved enhances the Vanilla experience, it is perfect for people who want a mor
 #
 ### <center></center>
 ### <center>Features</center>
-- Trade - setup shops and trade with villagers or other people.
+- Create Mod - build incredible technology with create.
 - Build - build incredible structures with the huge selection of new building blocks, including verticle slabs.
 - Decoration - simple furniture block and decoration blocks to choose from.
 - Sleeping bags - lets you sleep without setting spawn.
@@ -20,13 +20,15 @@ Evolved enhances the Vanilla experience, it is perfect for people who want a mor
 - Day Cycle - days and nights are longer. (48 minutes and 24 minutes)
 - Transportation - minecarts, boats, and horses all have been enhanced for easier gameplay.
 - Images/Music - you can upload custom paintings and music discs.
-- Create Mod - build incredible technology with create.
+- Trade - setup shops and trade with villagers or other people.
 - Combat - enhanced combat for a more satisfiying experience.
-- Enchants - most enchants are disabled and replaced with a few unique and fun ones.
-- Durablity - durablity is disabled, enchanting costs materials to balance.
+- Equipment - backpacks, maces, and other weapons and items.
+- Enchants - completely overhauled enchanting, no more overpowered enchants, no more villager enslavement.
+- Durability - durability is disabled, enchanting costs materials to balance.
 - Host Worlds - add friends in the multiplayer tab, and then open your world to friends.
+- Elytra - to use rocket boosting with elytras you need to have killed the ender dragon once.
 - Voice Chat - talk to people in game.
-- Visual Enhancements - water effects, enhanced cloud graphics, enhanced fog graphics.
+- Visual Enhancements - water effects, enhanced cloud graphics, new mob animations.
 - Audio Enhancements - ambient sounds in biomes, reverb and echo's in large spaces.
 - Teams - get friends in your guild and explore the world together.
 
@@ -38,9 +40,19 @@ Evolved enhances the Vanilla experience, it is perfect for people who want a mor
 
 #
 ### <center></center>
+### <center>Other projects</center>
+
+<center></center>
+<center>  
+  
+[![Beta Frontier](https://cdn.modrinth.com/data/cached_images/a25baeafc4b63321e013d5bcba9f766dd2a557b1.png)](https://modrinth.com/modpack/beta-frontier)
+[![New Origins](https://cdn.modrinth.com/data/cached_images/e17eee8070ce2ace6d4c2648a09b5645ee2c53a2.png)](https://modrinth.com/modpack/new-origins)
+
+#
+### <center></center>
 ### <center>Credits</center>
 <details>
-<summary>Mods, Resourcepacks, Shaders</summary>
+<summary>Mods</summary>
 
 - [backpacked-fabric](https://www.curseforge.com/minecraft/mc-mods/backpacked-fabric)
 - [catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue)
