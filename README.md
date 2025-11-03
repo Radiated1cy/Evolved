@@ -50,16 +50,8 @@ MC Evolved enhances the Vanilla experience with a unique and fun feel, it is per
 ### <center></center>
 ### <center>Credits</center>
 <details>
-<summary>Mods</summary>
+<summary>Credit for Mods</summary>
 
-- [backpacked-fabric](https://www.curseforge.com/minecraft/mc-mods/backpacked-fabric)
-- [catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue)
-- [chimes](https://www.curseforge.com/minecraft/mc-mods/chimes)
-- [configured](https://www.curseforge.com/minecraft/mc-mods/configured)
-- [framework](https://www.curseforge.com/minecraft/mc-mods/framework)
-- [menulogue](https://www.curseforge.com/minecraft/mc-mods/menulogue)
-- [mighty-mail-fabric](https://www.curseforge.com/minecraft/mc-mods/mighty-mail-fabric)
-- [armorful](https://modrinth.com/mod/armorful)
 - [mru](https://modrinth.com/mod/mru)
 - [sound](https://modrinth.com/mod/sound)
 - [seamless-loading-screen](https://modrinth.com/mod/seamless-loading-screen)
