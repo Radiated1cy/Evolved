@@ -1,39 +1,41 @@
 ![Evolved Logo](https://cdn.modrinth.com/data/cached_images/f9cf059957fe7867c8ec1d215d32c0408507bce0.png)
-
-<center></center>
-<center>  
-  This modpack gives you a more relaxed experience with its own style. It is also optimized for lower end PCs!</center>
+ 
+_"Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover."_
 
   #
 ### <center></center>
 ### <center>Description</center>
-MC Evolved enhances the Vanilla experience with a unique and fun feel, it is perfect for people who want a more relaxed experience. Evolved adds several new blocks and furniture to build with. Transportation is enhanced with quality of life features. The Create mod allows you to build incredible machines. Enhanced world gen with huge mountains and detailed forests. Several different new animal mobs like bears, snails, and more! New combat mechanics to give a more satisfying experience. Invite your friends to your world and play together!
+MC Evolved enhances the Vanilla experience with a unique and fun feel, it is perfect for people who want a more familiar and relaxed experience. MC Evolved adds several new blocks and furniture to build with. Exploration is enhanced with several new structures to explore and new world gen. Transportation is rebalanced. You can build incredible machines. Enhanced world gen with huge mountains and detailed forests. Several different new animal mobs like otters, snails, and many more! New combat mechanics to give a more satisfying experience. Invite your friends to your world and play together!
 
 #
 ### <center></center>
-### <center>Features</center>
-- Create Mod - build incredible technology with create.
+### <center>Notable Features</center>
 - Build - build incredible structures with the huge selection of new building blocks, including verticle slabs.
 - Mobs - find new mobs and pets around the world to befriend.
 - Day Cycle - days and nights are longer. (48 minutes and 24 minutes)
-- Transportation - minecarts, boats, and horses all have been enhanced for easier gameplay.
+- Transportation - elytras, minecarts, boats, and horses all have been enhanced for more balanced gameplay.
 - Images/Music - you can upload custom paintings and music discs.
 - Sleeping bags - lets you sleep without setting spawn.
+- Mobs - Mob behavior is improved, some mobs have unique abilities and/or behaviors.
 - Trade - setup shops and trade with villagers or other people.
-- Combat - enhanced combat for a more satisfying experience.
+- Combat - enhanced combat for a more satisfying experience, new unique weapons to use.
 - Enchants - completely overhauled enchanting, no more overpowered enchants, no more villager enslavement.
-- Durability - durability is disabled, enchanting costs materials to balance.
+- Durability - durability is disabled.
 - Host Worlds - add friends in the multiplayer tab, and then open your world to friends.
 - Elytra - elytras now have their own unique enchants, rocket boosting no longer exists.
 - Voice Chat - talk to people in game.
-- Visual Enhancements - water effects, enhanced cloud graphics, new mob animations.
+- Visual Enhancements - LOD rendering, enhanced graphics, new mob animations.
 - Audio Enhancements - ambient sounds in biomes, reverb and echo's in large spaces.
 
 #
 ### <center></center>
-### <center>Technical Stuff</center>
-- Required 2 GB of memory. 
-- The modpack is required on server and client.
+### <center>Requirements</center>
+- OS - Windows 10 64-bit (1909 or newer)
+- Processor - Intel Core i5-6600K or AMD Ryzen 5 1600X
+- Memory - 4 GB RAM
+- Graphics - NVIDIA Geforce GTS 450 / AMD Radeon HD 5570
+- Storage - 5 GB available space
+- Additional Notes - We recommend you install the game on SSD drive for better experience.
 
 #
 ### <center></center>
@@ -41,8 +43,8 @@ MC Evolved enhances the Vanilla experience with a unique and fun feel, it is per
 
 <center></center>
 <center>  
-  
-[![New Origins](https://cdn.modrinth.com/data/cached_images/e17eee8070ce2ace6d4c2648a09b5645ee2c53a2.png)](https://modrinth.com/modpack/new-origins)
+
+[![neworiginsicon](https://cdn.modrinth.com/data/cached_images/d7a4c7fa5d5101709a045ba74d5361811947cc8b_0.webp)](https://modrinth.com/modpack/new-origins)
 
 #
 ### <center></center>
